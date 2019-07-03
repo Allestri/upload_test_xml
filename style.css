@@ -1,0 +1,13 @@
+[class*="col-"], footer {
+  background-color: #d2d2d2;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}
+
+#map 
+{
+height: 400px;
+width: 100%;
+}
